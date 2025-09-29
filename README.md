@@ -11,7 +11,7 @@
 
 <!-- <img align="right" alt="coding" width="200" height =auto src="https://i.pinimg.com/736x/cc/10/0c/cc100c39b06cc6b0d10b6901323d0ead.jpg"> -->
 <!-- <img align="right" alt="coding" width="400" height =auto src="https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-4f60-61fa-b4ca-bb890f616db2/raw?se=2025-09-29T21%3A17%3A07Z&sp=r&sv=2024-08-04&sr=b&scid=85c752eb-8518-5b71-803d-715fecac6638&skoid=b7fc319f-b93c-4fac-ba5f-14fdc3f9209f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-29T19%3A17%3A59Z&ske=2025-09-30T19%3A17%3A59Z&sks=b&skv=2024-08-04&sig=9VXsQaWtcqp7kVDAfZEUM1A965R4sLfXQDvXkEDyUPE%3D"> -->
-<img align="right" alt="coding" width="350" height =auto src="https://github.com/RobotDad1/zzz/blob/main/codeimgg.jpg?raw=true">
+<img align="right" alt="coding" width="330" height =auto src="https://github.com/RobotDad1/zzz/blob/main/codeimgg.jpg?raw=true">
 
 <!--- Connect with me --->
 <h3 align="left">Connect with me:</h3>
