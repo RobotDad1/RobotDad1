@@ -23,12 +23,12 @@
 <a href="https://auth.geeksforgeeks.org/user/renuvermaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="renuvermaint" height="30" width="40" /></a>
 </p>
 <!--- Tools --->
-<h3 align="">Languages and Tools</h3>
-<p align="">
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,ts" />
 </p>
 
-<p align="">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=react,express,nodejs,tailwind,sklearn,vscode,github,ubuntu,windows" />
 </p>
 
